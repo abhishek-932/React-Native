@@ -1,4 +1,4 @@
-# Sample To Do application 
+# Simple To Do application 
 This Application is build using the react native framework hence it works on both android and IOS platforms.
 
 The project is divided into 2 basic components:
